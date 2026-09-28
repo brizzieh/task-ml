@@ -1,0 +1,26 @@
+{
+  "label_to_id": {
+    "ERRANDS": 0,
+    "FINANCE": 1,
+    "GENERAL": 2,
+    "HEALTH_FITNESS": 3,
+    "HOUSEHOLD": 4,
+    "PERSONAL": 5,
+    "SHOPPING": 6,
+    "SOFTWARE": 7,
+    "STUDY": 8,
+    "WORK": 9
+  },
+  "id_to_label": {
+    "0": "ERRANDS",
+    "1": "FINANCE",
+    "2": "GENERAL",
+    "3": "HEALTH_FITNESS",
+    "4": "HOUSEHOLD",
+    "5": "PERSONAL",
+    "6": "SHOPPING",
+    "7": "SOFTWARE",
+    "8": "STUDY",
+    "9": "WORK"
+  }
+}

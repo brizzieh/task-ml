@@ -1,0 +1,14 @@
+{
+  "label_to_id": {
+    "HIGH": 0,
+    "LOW": 1,
+    "MEDIUM": 2,
+    "URGENT": 3
+  },
+  "id_to_label": {
+    "0": "HIGH",
+    "1": "LOW",
+    "2": "MEDIUM",
+    "3": "URGENT"
+  }
+}

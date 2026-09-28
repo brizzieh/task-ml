@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+torch
+transformers
+sentencepiece
+pandas
+numpy
+scikit-learn
+datasets
+accelerate
